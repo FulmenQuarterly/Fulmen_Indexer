@@ -126,18 +126,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- Quote Display ---
-st.markdown("""
-<div style="text-align: center; color: #aaaaaa; font-style: italic; font-family: Courier, monospace; margin-top: 20px; margin-bottom: 40px;">
-+ <br>
-There are, indeed, things that cannot be put <br>
-into words. They make themselves manifest. <br>
-They are what is mystical. <br>
-– Wittgenstein, 1921 <br>
-+
-</div>
-""", unsafe_allow_html=True)
-
 # --- UI Input Section ---
 st.markdown('<div class="section">', unsafe_allow_html=True)
 
